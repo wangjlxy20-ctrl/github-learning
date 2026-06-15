@@ -8,10 +8,10 @@ I like learning Japanese too!!!
 
 ## Git
 
--Git 安装
--Git 配置
--Github上传
+- Git 安装
+- Git 配置
+- Github上传
 
 ## JAVA
 
--JAVA基础
+- JAVA基础
